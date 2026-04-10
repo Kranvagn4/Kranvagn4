@@ -26,10 +26,10 @@
 ## 🌌 About Me
 
 ```yaml
-name:     Sanyukt Ramola
-alias:    Kranvagn_4
-degree:   B.Tech. Computer Science Engineering
-college:  Symbiosis Institute of Technology, Pune  (3rd Year)
+Name:     Sanyukt Ramola
+Alias:    Kranvagn_4
+Degree:   B.Tech. Computer Science Engineering
+College:  Symbiosis Institute of Technology, Pune  (3rd Year)
 ```
 
 I like **different shades of blue** and multichromatic combinations.  
