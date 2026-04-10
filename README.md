@@ -22,7 +22,7 @@ class SanyuktRamola:
             "creative": ["Drawing", "Sketching"],
             "active": ["Cycling"],
             "social": ["Gaming with friends"],
-            "passions": ["Geopolitics", "Military hardware/vehicles"]
+            "passions": [" Geopolitics", "Military hardware/vehicles"]
         }
     
     def daily_mood(self):
