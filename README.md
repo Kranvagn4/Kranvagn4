@@ -43,10 +43,6 @@ print(me.daily_mood())
 📊 GitHub Stats (Not much oof :v)
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kranvagn4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kranvagn4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=Kranvagn4&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=1f6feb&sideLabels=58a6ff&dates=8b949e" /> </p><!-- Activity Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kranvagn4&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb"/>
 
-🐍 Snake Eating My Contributions
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kranvagn4/Kranvagn4/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kranvagn4/Kranvagn4/output/github-contribution-grid-snake.svg"> <img alt="Snake Animation" src="https://raw.githubusercontent.com/Kranvagn4/Kranvagn4/output/github-contribution-grid-snake.svg"> </picture>
-
-
 
 
 
