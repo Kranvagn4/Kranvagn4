@@ -1,32 +1,32 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Generate snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: Kranvagn4
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-          
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+            snake.svg
+            snake-dark.svg?palette=github-dark
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: .
           publish_branch: output
-          destination_dir: .
           keep_files: false
