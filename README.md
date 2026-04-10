@@ -78,7 +78,7 @@ Occasionally summoned by friends for gaming sessions — *purely involuntary, I 
 
 ---
 
-## 🎮 Currently Playing *(just for fun, I swear)*
+## 🎮 Some games i play *(just for fun, I swear)*
 
 <table>
   <tr>
@@ -87,15 +87,15 @@ Occasionally summoned by friends for gaming sessions — *purely involuntary, I 
   </tr>
   <tr>
     <td><img src="./assets/warthunder.png" width="40" height="40"/>&nbsp;&nbsp;<strong>War Thunder</strong></td>
-    <td>Grinding the tech tree (send help)</td>
+    <td>Grinding the JAS39 Gripen (help me...)</td>
   </tr>
   <tr>
     <td><img src="./assets/hsr.png" width="80" height="40"/>&nbsp;&nbsp;<strong>Honkai: Star Rail</strong></td>
-    <td>Pulling for characters I definitely need</td>
+    <td>Great plot and character storylines</td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/120px-Osu%21_Logo_2016.svg.png" width="40" height="40"/>&nbsp;&nbsp;<strong>Osu!</strong></td>
-    <td>My wrist hates me</td>
+    <td>My wrist hates me but I cant stop :v</td>
   </tr>
 </table>
 
