@@ -28,7 +28,7 @@
 ```yaml
 name:     Sanyukt Ramola
 alias:    Kranvagn_4
-degree:   B.E. Computer Science Engineering
+degree:   B.Tech. Computer Science Engineering
 college:  Symbiosis Institute of Technology, Pune  (3rd Year)
 ```
 
