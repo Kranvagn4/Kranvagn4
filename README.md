@@ -99,9 +99,9 @@ Occasionally summoned by friends for gaming sessions — *purely involuntary, I 
 
 | Game | Status |
 |------|--------|
-| 🛩️ **War Thunder** | Grinding the tech tree (send help) |
+| 🛩️ **War Thunder** | Grinding the JAS39 Gripen (send help) |
 | 🌌 **Honkai: Star Rail** | Pulling for characters I definitely need |
-| 🎵 **Osu!** | My wrist hates me |
+| 🎵 **Osu!** | My wrist hates me but i cant stop :v |
 
 ---
 
