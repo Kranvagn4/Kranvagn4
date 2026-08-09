@@ -34,7 +34,7 @@ College:  Symbiosis Institute of Technology, Pune  (4th Year)
 
 I like **different shades of blue** and multichromatic combinations.  
 When I'm not pushing commits, you'll find me **drawing & sketching**, going on **long cycling rides**, deep-diving into **geopolitics**, or probably checking the latest upgrades on **the Su-57 or the ZTZ99A**.  
-Occasionally summoned by friends for gaming sessions — *purely involuntary, I swear.*
+Randomly online when called by friends for gaming sessions — *purely by chance, ok?*
 
 ---
 
