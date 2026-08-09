@@ -29,7 +29,7 @@
 Name:     Sanyukt Ramola
 Alias:    Kranvagn_4
 Degree:   B.Tech. Computer Science Engineering
-College:  Symbiosis Institute of Technology, Pune  (3rd Year)
+College:  Symbiosis Institute of Technology, Pune  (4th Year)
 ```
 
 I like **different shades of blue** and multichromatic combinations.  
